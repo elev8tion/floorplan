@@ -1,0 +1,8 @@
+index.db
+index.db-shm
+index.db-wal
+memory.db
+memory.db-shm
+memory.db-wal
+logs/
+daemon.pid
